@@ -39,19 +39,7 @@ Clone it! Copy the clone URL on the right side of the page, then access your com
 
 I didn't have many struggles setting up git and github; the interfaces are pretty easy to follow. I was fuzzy on the exacts of forking though. I didn't quite get that you can fork from someone else to yourself. But now I do! Also, I'm a little intimidated to explore my own offline copies of repositories in the command line, but I'm ready.
 
-# Tracking Changes Reflection
-
-1. How does tracking and adding changes make developers' lives easier?
-2. What is a commit?
-3. What are the best practices for commit messages?
-4. What does the HEAD^ argument mean?
-5. What are the 3 stages of a git change and how do you move a file from one stage to the other?
-6. Write a handy cheatsheet of the commands you need to commit your changes?
-7. What is a pull request and how do you create and merge one?
-8. Why are pull requests preferred when working with teams?
-
-
-
+# 1.5 Tracking Changes Reflection
 
 1. How does tracking and adding changes make developers' lives easier?
   - If a change did not work or you want to return to an earlier version, you can track the change, find it, and work before it. Adding changes allows all of this to be possble.

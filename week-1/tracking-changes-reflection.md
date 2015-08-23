@@ -9,8 +9,7 @@
 7. What is a pull request and how do you create and merge one?
 8. Why are pull requests preferred when working with teams?
 
-
-
+######
 
 1. How does tracking and adding changes make developers' lives easier?
   - If a change did not work or you want to return to an earlier version, you can track the change, find it, and work before it. Adding changes allows all of this to be possble.
