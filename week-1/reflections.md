@@ -39,19 +39,7 @@ Clone it! Copy the clone URL on the right side of the page, then access your com
 
 I didn't have many struggles setting up git and github; the interfaces are pretty easy to follow. I was fuzzy on the exacts of forking though. I didn't quite get that you can fork from someone else to yourself. But now I do! Also, I'm a little intimidated to explore my own offline copies of repositories in the command line, but I'm ready.
 
-# Tracking Changes Reflection
-
-1. How does tracking and adding changes make developers' lives easier?
-2. What is a commit?
-3. What are the best practices for commit messages?
-4. What does the HEAD^ argument mean?
-5. What are the 3 stages of a git change and how do you move a file from one stage to the other?
-6. Write a handy cheatsheet of the commands you need to commit your changes?
-7. What is a pull request and how do you create and merge one?
-8. Why are pull requests preferred when working with teams?
-
-
-
+# 1.5 Tracking Changes Reflection
 
 1. How does tracking and adding changes make developers' lives easier?
   - If a change did not work or you want to return to an earlier version, you can track the change, find it, and work before it. Adding changes allows all of this to be possble.
@@ -64,7 +52,7 @@ I didn't have many struggles setting up git and github; the interfaces are prett
   - If necessary a body that goes into more detail.
 
 4. What does the HEAD^ argument mean?
-  -HEAD^ is the previous commit.
+  - HEAD^ is the previous commit.
 
 5. What are the 3 stages of a git change and how do you move a file from one stage to the other?
   - Once changes are made, those files become the first stage - "untracked". Once you add it with "git add" it becomes staged. Then when you commit it with "git commit" it becomes committed! BONUS: Upon creating a pull request and confirming it, the change is merged.

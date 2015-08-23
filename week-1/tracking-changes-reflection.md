@@ -9,8 +9,7 @@
 7. What is a pull request and how do you create and merge one?
 8. Why are pull requests preferred when working with teams?
 
-
-
+######
 
 1. How does tracking and adding changes make developers' lives easier?
   - If a change did not work or you want to return to an earlier version, you can track the change, find it, and work before it. Adding changes allows all of this to be possble.
@@ -23,7 +22,7 @@
   - If necessary a body that goes into more detail.
 
 4. What does the HEAD^ argument mean?
-  -HEAD^ is the previous commit.
+  - HEAD^ is the previous commit.
 
 5. What are the 3 stages of a git change and how do you move a file from one stage to the other?
   - Once changes are made, those files become the first stage - "untracked". Once you add it with "git add" it becomes staged. Then when you commit it with "git commit" it becomes committed! BONUS: Upon creating a pull request and confirming it, the change is merged.
