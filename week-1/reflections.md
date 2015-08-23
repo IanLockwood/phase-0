@@ -52,7 +52,7 @@ I didn't have many struggles setting up git and github; the interfaces are prett
   - If necessary a body that goes into more detail.
 
 4. What does the HEAD^ argument mean?
-  -HEAD^ is the previous commit.
+  - HEAD^ is the previous commit.
 
 5. What are the 3 stages of a git change and how do you move a file from one stage to the other?
   - Once changes are made, those files become the first stage - "untracked". Once you add it with "git add" it becomes staged. Then when you commit it with "git commit" it becomes committed! BONUS: Upon creating a pull request and confirming it, the change is merged.
