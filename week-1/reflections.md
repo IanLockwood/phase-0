@@ -5,6 +5,7 @@ I currently mentally yell at myself to focus until I finish a project, which obv
 - I’m trying out the Pomodoro Technique – 25 minutes on, 5 minutes off.
 - I’m starting to introduce helpful habits via the Fogg method as detailed in his Tedx talk, by introducing very tiny habits associated with inevitable triggers and growing those habits over time.
 - I’m experimenting with different ways to achieve flow and get in the zone. So far, truly understanding the task and using a kind voice with myself while easing into heavy focus are helping. Also, the pomodoro technique has helped a lot with this; knowing that there’s an end (or 5-minute break) in sight really helps me to jump right in and lose myself in the project.
+
 # 1.2 The Command Line Reflection
 1. A shell lets me interact directly with my operating system through a command line interface (CLI) as opposed to the GUI. Bash is the specific shell I use on OS X, and is used on Linux as well.  
 2. The most challenging thing in this material for me was just overcoming how intimidating Terminal seemed to me. Turned out it wasn’t very complex or scary at all.  
@@ -22,6 +23,7 @@ I currently mentally yell at myself to focus until I finish a project, which obv
 - rmdir – removes a directory
 - rm – removes a file
 - help – gives the user help with/more info on commands
+
 # 1.3 Forking and Cloning
 Creating a new repository is easy. A repository is like a new folder on your computer that will hold all of the sub-folders and files for your project. It's as simple as using mkdir in your command line (and I'm pretty sure you could do it that way if you wanted); just log into github, hit the "+" in the top right corner, and select "new repository". That's it!
 To fork a repository to yourself, just navigate to it on github, hit the fork button in the top right corner, and select your profile. You would want to fork a repository to make changes to it without affecting the master repository. Later, you would merge these changes. Forking only creates an online copy, however. To work offline (which you do want to do)...
