@@ -18,17 +18,17 @@ I currently mentally yell at myself to focus until I finish a project, which obv
 4. Some are important because they are core/basic, like pwd, ls, .., and cd. Others are important because they are powerful, like wildcard matching (*) because you can affect tons of files at once, or grep for searching through files. We didn’t really get to it other than being told to research it on our own, but I have a suspicion that xargs will be very important. I’ll definitely have more of a sense of what’s important when I learn a bit more.  
 
 5. 
-* pwd – print working directory – shows you where you are in the command line.
-* ls – list directory – shows you everything in a directory, i.e. files and directories.
-* mv – move a file/directory – this is more like renaming than moving.
-* cd – change directory – navigate deeper into directories; very handy, the best way to get around.
-* ../ - move up a level in directories, to the parent directory
-* touch – makes a new, empty file in your current directory
-* mkdir – make directory – make a new, empty directory in your current directory
-* less – shows you the contents of a file in a new window (as opposed to cat, which just prints it out in the current window
-* rmdir – removes a directory
-* rm – removes a file
-* help – gives the user help with/more info on commands
+  * pwd – print working directory – shows you where you are in the command line.
+  * ls – list directory – shows you everything in a directory, i.e. files and directories.
+  * mv – move a file/directory – this is more like renaming than moving.
+  * cd – change directory – navigate deeper into directories; very handy, the best way to get around.
+  * ../ - move up a level in directories, to the parent directory
+  * touch – makes a new, empty file in your current directory
+  * mkdir – make directory – make a new, empty directory in your current directory
+  * less – shows you the contents of a file in a new window (as opposed to cat, which just prints it out in the current window
+  * rmdir – removes a directory
+  * rm – removes a file
+  * help – gives the user help with/more info on commands
 
 # 1.3 Forking and Cloning
 Creating a new repository is easy. A repository is like a new folder on your computer that will hold all of the sub-folders and files for your project. It's as simple as using mkdir in your command line (and I'm pretty sure you could do it that way if you wanted); just log into github, hit the "+" in the top right corner, and select "new repository". That's it!
