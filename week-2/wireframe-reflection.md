@@ -14,7 +14,7 @@ Wireframing is an important tool for planning your site before coding it. Rather
 
 - Did you enjoy wireframing your site?
 
-I did! It was fun and creative. That said, if I were pressed for time, I'd probably find it tedius and a little frustrating.
+I did! It was fun and creative. That said, if I were pressed for time, I'd probably find it tedious and a little frustrating.
 
 - Did you revise your wireframe or stick with your first idea?
 
