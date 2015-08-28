@@ -1,8 +1,8 @@
 # 2.4 Wireframing Reflection
 
-![Index Wireframe](week-2/imgs/wireframe-index.png)
+![Index Wireframe](/week-2/imgs/wireframe-index.png)
 
-![Blog Index Wireframe](week-2/imgs/wireframe-blog-index.png)
+![Blog Index Wireframe](/week-2/imgs/wireframe-blog-index.png)
 
 - What is a wireframe?
 
