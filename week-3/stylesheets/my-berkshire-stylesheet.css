@@ -1,0 +1,105 @@
+header {
+	text-align: center;
+	line-height: .9em;
+}
+
+body {
+    background-color: #ffffff;
+}
+
+span {
+	font-size: 1.625em;
+}
+
+table {
+	margin-left: 10em;
+	margin-right: 10em;
+}
+
+a {
+   color: #800080; 
+}
+
+a:visited {
+    color:#ff0000;
+}
+
+h3 {
+    color: #000080;
+}
+
+p {
+   color: #000080;
+   font-size: 1em;
+}
+
+li {
+    color: #000080;
+}
+
+.col-count {
+	-webkit-column-count: 2;
+    -moz-column-count: 2;
+  column-count: 2;
+  margin: 1em;
+}
+
+
+.line {
+	width:100%; 
+	height:1px;
+	background: gray;
+}
+
+.line2 {
+	width:100%; 
+	height:1px;
+	background: gray;
+	margin-bottom: -2em;
+}
+
+.small {
+	font-size: .625em;
+	margin-top: -1em;
+	line-height: 1em;
+}
+
+.big {
+	font-size: 2em;
+}
+
+.list-spacing {
+	line-height: 3em;
+}
+
+.geico {
+  text-align: center;
+  font-size: .625em;
+}
+
+.comments {
+	font-size: .8em;
+}
+
+/*
+- What is important to know when linking an external file (like a stylesheet) to an HTML file?
+The relative path! This one was tough because they were in different directories. 
+It took me 100 tries before I realized I had forgotten to include the "stylesheets" folder in my relative path.
+Also, knowing the basic format (<link type="text/css" rel="stylesheet" href="[path]">) is obviously important.
+
+- What tricks did you use to help you with positioning? How hard was it to get the site as you wanted it?
+The box model, text-align, line-height, and <br>.
+It was easy to get it close to how I wanted it, and SUPER HARD to get it to exactly how I wanted it.
+
+- What CSS did you use to modify the element style (like size, color, etc.)
+Color, background-color, font-size, line-height, background.
+
+- Did you modify the HTML to include classes or ids? If so, which did you choose and why? If you didn't, how would you know which one to add to your HTML?
+I did! I'm not sure if this is right, but I used only classes because of J. Ky Marsh's lecture.
+
+- When you compared your site to the actual code base, which do you think had cleaner code that followed best practices and why?
+Oh mine, definitely. Not that my CSS is perfect or anything, but they didn't even use CSS!
+The reason mine followed best practices is because I built it from scratch and didn't look at what they did.
+*/
+
+
