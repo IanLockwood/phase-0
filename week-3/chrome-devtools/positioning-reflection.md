@@ -32,7 +32,7 @@ I liked it - it was different from what we've been doing but I found it very hel
 2. Column
 ![2. Column](../imgs/2-column.png)
 
-3. Row]
+3. Row
 ![3. Row](../imgs/3-row.png)
 
 4. Equidistant
