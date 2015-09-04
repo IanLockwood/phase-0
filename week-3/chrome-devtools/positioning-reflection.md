@@ -26,20 +26,20 @@ Padding is inside the border and determines how close the content is to the bord
 
 I liked it - it was different from what we've been doing but I found it very helpful to just drill exercises for a while and work hands-on.
 
-![1. Color](../imgs/1-color)
+![1. Color](../imgs/1-color.png)
 
-![2. Column](../imgs/2-column)
+![2. Column](../imgs/2-column.png)
 
-![3. Row](../imgs/3-row)
+![3. Row](../imgs/3-row.png)
 
-![4. Equidistant](../imgs/4-equidistant)
+![4. Equidistant](../imgs/4-equidistant.png)
 
-![5. Squares](../imgs/5-squares)
+![5. Squares](../imgs/5-squares.png)
 
-![6. Footer](../imgs/6-footer)
+![6. Footer](../imgs/6-footer.png)
 
-![7. Header](../imgs/7-header)
+![7. Header](../imgs/7-header.png)
 
-![8. Sidebar](../imgs/8-sidebar)
+![8. Sidebar](../imgs/8-sidebar.png)
 
-![9. Get Creative!](../imgs/9-get-creative)
+![9. Get Creative!](../imgs/9-get-creative.png)
