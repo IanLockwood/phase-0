@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+	<title>The Anatomy of HTML</title>
+</head>
+
+<body>
+<header>  
+<h1>Week 1</h1>
+  <h2>Git, GitHub, and the Command Line</h2>
+  <h4>August 23, 2015</h4>
+</header>
+
+<article>
+  <section>
+    <p>
+      My first week at DBC is almost complete and I've learned a ton. For my own sake, and the sake of you, dear reader, I am going to walk through the basics of git and GitHub, as well as some git commands you'll need to use in the command line.
+    </p>
+  </section>
+<br>
+  <section>
+    <p>
+        Git is an incredibly handy open source version control system. Sooooooooo... what is that? Version control software allows you to save and record many <i>versions</i> of a project as you work on it, and access those different versions whenever you like. You have <i>control</i> of all of those versions. Get it? Version. Control. Version control!
+    </p>
+    <p>
+        This is obviously very handy for any project where you might make a mistake or bad choice and want to go back, but it is especially handy for coding, where one rogue character can mess up an entire project. With git you can just go back to a working version and try again.
+    </p>
+  </section>
+<br>
+  <section>
+    <p>
+        Git helps you keep track of changes with commit messages and the git log. With each submitted change, or <i>commit</i>, a good programmer submits a commit message that explains exactly what was done. These commits and their messages are always accessible via the git log, which shows every commit since the initial one. Pretty nifty!
+    </p>
+  </section>
+<br>
+  <section>
+    <p>
+        Github is an awesome way to store, track, collaborate on, and change your code. There are many benefits to using GitHub. For one, your work and all of your commits now exist online, which will save you if your computer crashes. The interface is excellent, and accessing your commits is incredibly easy. The interface also allows you to see exactly what was changed when you submit changes by using a helpful red/- and green/+ comparison. But perhaps GitHub's greatest strength is that it allows you to work collaboratively with people around the world on your work and theirs. GitHub is a social networking site (like Facebook), and if you like, you can make your work public, allowing people to copy, change, and add to your work. All of this exists at GitHub.com. Check it out!
+    </p>
+  </section>
+<br>
+  <section>
+      Here is my nifty guide to making changes to git/GitHub projects. The command line commands will only work if you have git set up, and this will be super confusing to true beginners. Come back once you've played around in git and GitHub a little bit!
+      <ol>
+      <li>Navigate to your repository in the command line using the cd command line</li>
+      <li>Create a branch: git co -b new-branch-name</li> 
+      <li>Make changes</li> 
+      <li>Check your git status: git status</li> 
+      <li>Add your files and changes to be committed: git add . (or the specific file name)</li> 
+      <li>Check your git status: git status</li> 
+      <li>Commit your changes and add a message: git commit -m "message"</li> 
+      <li>Check your git log: git log</li> 
+      <li>Navigate back to the master branch: git co master</li> 
+      <li>Pull the current master branch (in case a team member has made changes): git pull</li> 
+      <li>Navigate back to your new branch: git co new-branch-name</li> 
+      <li>Merge it with the master branch: git merge master</li> 
+      <li>Push your changes up to GitHub: git push origin new-branch-name</li> 
+      <li>Navigate to github.com</li> 
+      <li>Click pull request</li> 
+      <li>Confirm merge</li> 
+      <li>Delete the old branch (this is good organizational practice): git branch -d new-branch-name</li>
+      </ol>
+  </section>
+<br>
+
+	<aside><p>Hey, here's an aside</p>
+		<p><a href="msn.com">I like linking to msn.com because it's a short url that I know works</a></p>
+	</aside>
+
+  <section>
+        Finally, to share some personal observations from the week:
+        <ul>
+          <li>Git and GitHub rule.</li>
+          <li>Learning the command line was super intimidating. It looks so advanced and complicated! But it was fairly simple, actually. I was glad to have some html knowledge and breeze through those few parts, because it was nice to feel a little ahead in one thing while wading through tons of new material.</li>
+          <li>Oh man, I type like a baby. Or hey, I used to! Before DBC, I was typing with 2 fingers on each hand, and I was going pretty quickly, but I looked down at the keyboard a lot and topped out at about 45 wpm. So, I've been making a concerted effort to do the typing lessons and type like an adult human. I'm already typing faster and I never look down at the keyboard. It's great!</li>
+        </ul>
+  </section>
+<br>
+  <section>
+    <p>
+        Okay, that's it for me. See you next week!
+    </p>
+    <p>--Ian</p>
+  </section>
+</article>
+
+</body>
+</html>
+
+<!--
+- What HTML5 tags have you used in this challenge and continue to return to often? Why?
+
+Section, article, aside, header, and footer. I really like section, I think because it feels like an intelligent way to separate content. <p> is fine, but when two pieces of text/content have nothing to do with each other, I like to separate them into sections.
+
+I also use header a lot because it's a quick and easy way for me to point to which of my divs is the header. I pretty much always have a header. I didn't use it in this challenge, but the same goes for nav.
+
+- How do elements get laid out on a page? What is the order the browser uses to display elements?
+
+Elements are laid out through the DOM from outermost tag to innermost, and then from top to bottom in the html doc. Of course, CSS can change all of this.
+
+- What did you learn about Sublime in this challenge? Do you think you'll create more handy snippets at a later date? What about research some shortcuts that already exist?
+
+I learned how to make snippets, which is super handy for seeting up documents. I do think I'll make more snippets because they're great. I did a bit more research and found a bunch of handy shortcuts, including bookmarking, line swapping, and duplicating lines.
+-->
+
