@@ -49,3 +49,10 @@ Variables are names that refer to a string or numbers. They can change or be rea
 - How was this challenge? Did you get a good review of some of the basics?
 
 Pretty easy but super helpful - it was a great review of the very-basics.
+
+Assignment links:  
+[4.2.1](https://github.com/IanLockwood/phase-0/blob/master/week-4/defining-variables.rb)  
+[4.2.2](https://github.com/IanLockwood/phase-0/blob/master/week-4/simple-string.rb)  
+[4.2.3](https://github.com/IanLockwood/phase-0/blob/master/week-4/basic-math.rb)
+
+
