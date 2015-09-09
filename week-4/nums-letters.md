@@ -20,3 +20,32 @@ Minutes in a decade:
 ```ruby
 puts 10 * 365 * 24 * 60
 ```
+
+
+- How does Ruby handle addition, subtraction, multiplication, and division of numbers?
+
+Ruby has built-in operators for all of these: `+` for addition, `-` for subtraction, `*` for multiplication, and `/` for division (and `%` for modulus...let's not get into that now). Note: you can't use commas in your numbers when performing these operations.
+
+- What is the difference between integers and floats?
+
+Integers have no decimals, floats have them.
+Integer: 7
+Float: 7.0
+
+- What is the difference between integer and float division?
+
+Integer division will return integers, float division will return floats.
+9 / 4 = 2
+9.0 / 4.0 = 4.25
+
+- What are strings? Why and when would you use them?
+
+Strings are a bunch of letters between quotes! "Like this." You use them all the time in Ruby when interacting with the user. Someone using your program probably won't understand your code, so you have to talk to them in plain English (or the plain version of another language).
+
+- What are local variables? Why and when would you use them?
+
+Variables are names that refer to a string or numbers. They can change or be reassigned, which is why they're called variables. Get it? Because they're variable?
+
+- How was this challenge? Did you get a good review of some of the basics?
+
+Pretty easy but super helpful - it was a great review of the very-basics.
