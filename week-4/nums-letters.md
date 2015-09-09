@@ -28,15 +28,15 @@ Ruby has built-in operators for all of these: `+` for addition, `-` for subtract
 
 - What is the difference between integers and floats?
 
-Integers have no decimals, floats have them.
-Integer: 7
-Float: 7.0
+Integers have no decimals, floats have them. 
+ Integer: 7 
+ Float: 7.0
 
 - What is the difference between integer and float division?
 
-Integer division will return integers, float division will return floats.
-9 / 4 = 2
-9.0 / 4.0 = 4.25
+Integer division will return integers, float division will return floats. 
+ 9 / 4 = 2 
+ 9.0 / 4.0 = 4.25
 
 - What are strings? Why and when would you use them?
 
