@@ -13,29 +13,37 @@
 # What are the steps needed to solve the problem?
 
 # Take in integer
-# IF it is < 1000
-# RETURN the integer
-# ELSE Convert the integer to a string with to_s
-# Use the INSERT method and iterate to insert commas in the -4, -8, -12, etc. position.
+# IF it is >= 1000
+# Convert the integer to a string with to_s
+# REVERSE the string
+# Create a new variable and 
+
+
 # return the string
+# ELSE
+# RETURN the integer
 
 
 # 1. Initial Solution
 
 def separate_comma(num)
-	i = 0
-	if num < 1000
-		return num.to_s
-	else
-		to_return = ""
-		num.to_s.split(//).each do |x|
-		i += 1
-		to_return += x
-		to_return += "," if (i % 3 = 0)
-	end
-		return to_return.reverse
-	end
+
 end
+
+# def separate_comma(num)
+# 	i = 0
+# 	if num < 1000
+# 		return num.to_s
+# 	else
+# 		to_return = ""
+# 		num.to_s.split(//).each do |x|
+# 		i += 1
+# 		to_return += x
+# 		to_return += "," if (i % 3 = 0)
+# 	end
+# 		return to_return.reverse
+# 	end
+# end
 
 
 # 2. Refactored Solution
