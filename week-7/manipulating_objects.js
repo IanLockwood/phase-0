@@ -16,20 +16,39 @@ var terah = {
 // __________________________________________
 // Write your code below.
 
+var adam = {
+  name: "Adam",
+  spouse: terah,
+};
 
-
-
-
-
-
-
-
-
+terah.spouse = adam;
+terah.weight = 125;
+delete terah.eyeColor;
+terah.children = {};
+terah.children.carson = {};
+terah.children.carson.name = "Carson";
+terah.children.carter = {};
+terah.children.carter.name = "Carter";
+terah.children.colton = {};
+terah.children.colton.name = "Colton";
+adam.children = terah.children
 
 // __________________________________________
 // Reflection: Use the reflection guidelines
 //
-//
+// What tests did you have trouble passing? What did you do to make it pass? Why did that work?
+//   At first I didn't realize I needed to define carson as an empty object (IE = {};).
+//   Also, when I first added Carter, I got more errors about Carson and I was really confused.
+//   I realized after some inspecting that having copy+pasted the code for carson,
+//   I had left the code as terah.children.carson.name = "Carter";
+
+// How difficult was it to add and delete properties outside of the object itself?
+//   Surprisingly easy!
+//   Maybe this is one of those things JavaScript is really good at.
+
+// What did you learn about manipulating objects in this challenge?
+//   It's pretty easy, but if you're inserting an object into another object,
+//   you have to define it as empty before you can add anything into it.
 //
 //
 //
