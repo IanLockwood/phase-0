@@ -1,6 +1,6 @@
 # MORE SCHEMAS
 
-	![both schemas](week-8/more-schemas.png)
+	![both schemas](intro-to-databases/more-schemas.png)
 
 
 ### What is a one-to-one database?
