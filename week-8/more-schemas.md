@@ -1,6 +1,6 @@
 # MORE SCHEMAS
 
-	![both schemas](more-schemas.png)
+	![both schemas](/more-schemas.png)
 
 
 ### What is a one-to-one database?
