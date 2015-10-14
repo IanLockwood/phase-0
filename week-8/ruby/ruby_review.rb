@@ -31,15 +31,15 @@ end
 # Reflection
 
 
-What concepts did you review or learn in this challenge?
-	Loops, huge numbers, Ruby&math.
-	At first I tried to use the formula for checking if a number is in the fibonacci sequence, but my numbers were too big to store.
+# What concepts did you review or learn in this challenge?
+# 	Loops, huge numbers, Ruby&math.
+# 	At first I tried to use the formula for checking if a number is in the fibonacci sequence, but my numbers were too big to store.
 
-What is still confusing to you about Ruby?
-	I don't know how to deal with bignums.
+# What is still confusing to you about Ruby?
+# 	I don't know how to deal with bignums.
 
-What are you going to study to get more prepared for Phase 1?
-	I'm going to go for super complex problems.
-	I need a little fine tuning on everything, so I'd love to launch into challenges that have a lot of stuff.
+# What are you going to study to get more prepared for Phase 1?
+# 	I'm going to go for super complex problems.
+# 	I need a little fine tuning on everything, so I'd love to launch into challenges that have a lot of stuff.
 
 
