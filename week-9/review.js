@@ -105,15 +105,15 @@ options()
 list_maker()
 
 
-REFLECTION
+// REFLECTION
 
-What concepts did you solidify in working on this challenge? (reviewing the passing of information, objects, constructors, etc.)
-	Basically all of the JavaScript I've learned so far (though I didn't use a constructor).
-	This was a great multi-step review of a ton of stuff.
+// What concepts did you solidify in working on this challenge? (reviewing the passing of information, objects, constructors, etc.)
+// 	Basically all of the JavaScript I've learned so far (though I didn't use a constructor).
+// 	This was a great multi-step review of a ton of stuff.
 
-What was the most difficult part of this challenge?
-	I had the order of var item and var quant totally mixed up and it led to some strange results.
-	Also, I had a lot of trouble making it look pretty, but then my simple for loop worked perfectly! Thanks JavaScript!
+// What was the most difficult part of this challenge?
+// 	I had the order of var item and var quant totally mixed up and it led to some strange results.
+// 	Also, I had a lot of trouble making it look pretty, but then my simple for loop worked perfectly! Thanks JavaScript!
 
-Did an array or object make more sense to use and why?
-	Definitely an object! I needed values AND keys.
+// Did an array or object make more sense to use and why?
+// 	Definitely an object! I needed values AND keys.
